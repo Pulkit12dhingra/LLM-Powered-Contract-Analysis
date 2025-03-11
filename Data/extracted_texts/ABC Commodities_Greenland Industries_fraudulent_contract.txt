@@ -1,0 +1,32 @@
+
+    SUPPLY CHAIN CONTRACT
+    ----------------------
+    
+    This contract is made on 2025-03-10 between ABC Commodities (the "Supplier") and Greenland Industries (the "Client").
+    
+    1. SUPPLY DETAILS:
+       - Commodity: Corn (C67890)
+       - Volume: 24485 metric tons
+       - Unit Price: $200 per metric ton
+       - Total Price: $9794000
+       
+    2. LOGISTICS:
+       - Origin: Houston
+       - Destination: New York
+       
+    3. TERM:
+       - Contract Start Date: 2025-03-10
+       - Contract End Date: 2026-02-07
+       
+    4. PAYMENT TERMS:
+       - Payment to be made in advance and is non-refundable.
+       
+    5. TERMINATION:
+       - Contract is non-cancellable under any circumstances.
+       
+    6. FORCE MAJEURE:
+       - Neither party shall be liable for delays due to unforeseen circumstances beyond their control.
+       
+    Signed,
+    ABC Commodities (Supplier)        Greenland Industries (Client)
+    
